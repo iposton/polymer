@@ -1,0 +1,58 @@
+[
+  {
+    "uid": 1,
+    "text" : "I'm building with Polymer Webcomponents!",
+    "username" : "Ian",
+    "avatar" : "https://avatars0.githubusercontent.com/u/8107942?v=3&s=460",
+    "favorite": false
+  },
+  {
+    "uid": 2,
+    "text" : "Polymer was almost my middle name.",
+    "username" : "Peter",
+    "avatar" : "http://www.ianposton.com/blog/images/petergame.png",
+    "favorite": false
+  },
+    {
+    "uid": 3,
+    "text" : "I chilled with some Polymer paper elems in Rio.",
+    "username" : "The Croz",
+    "avatar" : "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xaf1/v/t1.0-1/c79.64.803.803/s320x320/546567_3634976992640_1559337476_n.jpg?oh=fe81651840d8821dacfcdce384b6bc0d&oe=55F839EF&__gda__=1443412084_9b15f25e6ac4702aeb63b6c010b9ae65",
+    "favorite": false
+  },
+  {
+    "uid": 4,
+    "text" : "The proof is in the art.",
+    "username" : "Travis",
+    "avatar" : "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfa1/v/t1.0-1/p320x320/11245489_1405085139815458_2685676988931277470_n.jpg?oh=953dd9a20872c25c3843dea401685ea1&oe=56040C7F&__gda__=1442211635_87a7bc888484445f3a0d50dd0b6f952e",
+    "favorite": false
+  },
+  {
+    "uid": 5,
+    "text" : "Is the dog foods bowl empty already?",
+    "username" : "Peter",
+    "avatar" : "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpf1/v/t1.0-1/c2.86.716.716/s320x320/1469980_10201807099892504_321520416_n.jpg?oh=4634289207ed9a02db22d20e94701a05&oe=55C2A8EC&__gda__=1442427198_3c42f223990ddfbfcbed034fafc55651",
+    "favorite": false
+  },
+  {
+    "uid": 6,
+    "text" : "If I don't see in my camera it isn't real.",
+    "username" : "Jeff",
+    "avatar" : "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn2/v/t1.0-1/c66.66.828.828/s320x320/601674_4033407957440_1066689280_n.jpg?oh=1a0024aff358a26e905d0fe6bf3dd718&oe=560D28BF&__gda__=1442974293_db95124384e68cdad217fe7db15cfe57",
+    "favorite": false
+  },
+  {
+    "uid": 7,
+    "text" : "You know me from the statefarm comersh.",
+    "username" : "Camille",
+    "avatar" : "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/v/t1.0-1/p320x320/1533814_10155087908320364_3585038080339560196_n.jpg?oh=17d25f86ad8277561c6c59a263d2cbc9&oe=55C3F768&__gda__=1443295383_ccc95cd16c75ecaa4ea529a2ad0e8958",
+    "favorite": false
+  },
+  {
+    "uid": 8,
+    "text" : "You're the dude, Dude.",
+    "username" : "Sam Elliot",
+    "avatar" : "../images/avatar-05.svg",
+    "favorite": false
+  }
+]
