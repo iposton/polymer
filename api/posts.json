@@ -52,7 +52,7 @@
     "uid": 8,
     "text" : "You're the dude, Dude.",
     "username" : "Sam Elliot",
-    "avatar" : "../polymer/images/avatar-05.svg",
+    "avatar" : "../../images/avatar-05.svg",
     "favorite": false
   }
 ]
